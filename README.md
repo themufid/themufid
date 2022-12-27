@@ -28,3 +28,5 @@
   ![VueJS](https://img.shields.io/badge/VUEJS-47A249?style=flat-square&logo=vue.js&logoColor=green)
   ![ExpressJS](https://img.shields.io/badge/EXPRESSJS-339934.svg?style=flat&logo=express.js)&nbsp;
   
+![Mufid's Github Stats](https://github-readme-stats.vercel.app/api?username=themufid&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themufid&hide=TeX&layout=compact)
