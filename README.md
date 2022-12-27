@@ -4,8 +4,9 @@
   <a href="mailto:themufiddev@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/faisalmufid1/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rodhifaisalmufid/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://dev.to/themufid"><img src="https://img.shields.io/badge/dev.to-%230077B5.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <summary><b>Tech Knowledge</b></summary>
+  <p><b>Tech Knowledge</b></p>
   
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
   ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
@@ -15,7 +16,9 @@
   ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
   ![FIGMA](https://img.shields.io/badge/FIGMA-007ACC.svg?&style=flat&logo=figma)&nbsp;
   
+  <details>
   <summary><b>Other knowledge, currently learning</b></summary>
+  </br>
   
   ![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;
   ![MongoDB](https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white)&nbsp;
