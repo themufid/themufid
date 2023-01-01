@@ -33,5 +33,5 @@
   ![Ionic](https://img.shields.io/badge/IONIC-47A249?style=flat-square&logo=ionic&logoColor=blue)
   ![ExpressJS](https://img.shields.io/badge/EXPRESSJS-339934?style=flat&logo=expressjs)&nbsp;
   
-![Mufid's Github Stats](https://github-readme-stats.vercel.app/api?username=themufid&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themufid&hide=TeX&layout=compact)
+![Rodhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=themufid&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themufid&exclude_repo=github-readme-stats,themufid.github.io)](https://github.com/themufid/github-readme-stats)
