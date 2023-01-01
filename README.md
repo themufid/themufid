@@ -31,7 +31,7 @@
   ![LINUX](https://img.shields.io/badge/LINUX-4479A1?style=flat-square&logo=linux&logoColor=black)
   ![VueJS](https://img.shields.io/badge/VUEJS-47A249?style=flat-square&logo=vue.js&logoColor=green)
   ![Ionic](https://img.shields.io/badge/IONIC-47A249?style=flat-square&logo=ionic&logoColor=blue)
-  ![Laravel](https://img.shields.io/badge/LARAVEL-339934?style=flat&logo=laravel)&nbsp;
+  ![ExpressJS](https://img.shields.io/badge/EXPRESSJS-339934?style=flat&logo=expressjs)&nbsp;
   
 ![Mufid's Github Stats](https://github-readme-stats.vercel.app/api?username=themufid&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themufid&hide=TeX&layout=compact)
