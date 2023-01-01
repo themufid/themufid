@@ -34,4 +34,4 @@
   ![ExpressJS](https://img.shields.io/badge/EXPRESSJS-339934?style=flat&logo=expressjs)&nbsp;
   
 ![Rodhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=themufid&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themufid&exclude_repo=github-readme-stats,themufid.github.io)](https://github.com/themufid/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themufid&layout=compact)](https://github.com/themufid/github-readme-stats)
