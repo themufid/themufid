@@ -1,6 +1,9 @@
 <h2 align="center"><strong><p>WELCOME TO MY LIFE</p></strong><img src="https://github.com/themufid/README/blob/main/gifs/Halo.gif" width="30"></h2>
    
 <p align="center">
+   
+![](https://visitor-badge.glitch.me/badge?page_id=themufid&style=flat-square&color=0088cc)
+   
   <a href="mailto:themufiddev@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/faisalmufid1/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rodhifaisalmufid/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
