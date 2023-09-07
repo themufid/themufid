@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/rodhifaisalmufid/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.twitter.com/faisalmufidd/"><img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <p>I'm Mufid, a Front-end Web developer from Indonesia. In most cases, active in the following, Have a nice day.</p>
+  <p>I'm Mufid, a Web developer from Indonesia. In most cases, active in the following, Have a nice day.</p>
 <p>Let's study together with me 👨🏻‍💻</p>
   <hr />
   
@@ -24,9 +24,11 @@
   ![VueJS](https://img.shields.io/badge/VueJS-439A97?style=flat&logo=Vue.js&logoColor=white)
   ![Django](https://img.shields.io/badge/Django-000000?style=flat&logo=Django&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=Python&logoColor=white)
-  ![Linux](https://img.shields.io/badge/LINUX-4479A1?style=flat-square&logo=linux&logoColor=black)
+  ![Linux](https://img.shields.io/badge/Linux-4479A1?style=flat-square&logo=linux&logoColor=black)
   ![Jupyter](https://img.shields.io/badge/Jupyter-7286D3?style=flat&logo=Jupyter&logoColor=white)
   ![WordPress](https://img.shields.io/badge/WordPress-7286D3?style=flat&logo=WordPress&logoColor=white)
+  ![Figma](https://img.shields.io/badge/Figma-7286D3?style=flat&logo=Figma&logoColor=white)&nbsp;
+  ![Trello](https://img.shields.io/badge/Trello-%231572B6.svg?&style=flat&logo=Trello&logoColor=white)&nbsp;
   
   <details>
   <summary><b>Other knowledge, currently learning</b></summary>
