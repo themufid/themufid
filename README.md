@@ -16,22 +16,25 @@
 <hr />
 
 <h2 align="left"><b>Tech Knowledge</b></h2>
-
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Bootstrap-7286D3?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="Bootstrap">
   <img src="https://img.shields.io/badge/VueJS-439A97?style=for-the-badge&logo=Vue.js&logoColor=white" alt="Vue.js">
   <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=Django&logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
+</p>
+
+<h2 align="left"><b>Tools</b></h2>
+<p align="left">
+  <img src="https://img.shields.io/badge/Github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/GIT-%23dc2743.svg?style=for-the-badge&logo=Git&logoColor=white" alt="GIT">
   <img src="https://img.shields.io/badge/Linux-4479A1?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Jupyter-7286D3?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter">
-  <img src="https://img.shields.io/badge/WordPress-7286D3?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress">
   <img src="https://img.shields.io/badge/Figma-7286D3?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/Trello-%231572B6.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
 </p>
 
 <h2 align="left"><b>Currently Learning</b></h2>
