@@ -24,6 +24,9 @@
   <img src="https://img.shields.io/badge/VueJS-439A97?style=for-the-badge&logo=Vue.js&logoColor=white" alt="Vue.js">
   <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=Django&logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Express-439A97.svg?&style=for-the-badge&logo=express&logoColor=white" alt="Express">
+<img src="https://img.shields.io/badge/Node.js-47A248.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="Node">
+<img src="https://img.shields.io/badge/POSTGRESQL-336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </p>
 
 <h2 align="left"><b>Tools</b></h2>
@@ -41,7 +44,6 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/MONGODB-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/POSTGRESQL-336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </p>
 
 <h2 align="left"><b>GitHub Stats</b></h2>
