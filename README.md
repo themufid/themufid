@@ -11,11 +11,11 @@
   <a href="https://www.twitter.com/almufid_tech/"><img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
-<p align="center">I'm Mufid, a Web developer from Indonesia. Let's learn together! 👨🏻‍💻</p>
+<p align="center">I'm Mufid, a Programmer from Indonesia. Let's learn together! 👨🏻‍💻</p>
 
 <hr />
 
-<h2 align="left"><b>Tech Knowledge</b></h2>
+<h2 align="left"><b>Tech Stack</b></h2>
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -38,6 +38,7 @@
   <img src="https://img.shields.io/badge/Figma-7286D3?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/Trello-%231572B6.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
+   <img src="https://img.shields.io/badge/Docker-%231572B6.svg?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker">
 </p>
 
 <h2 align="left"><b>Currently Learning</b></h2>
