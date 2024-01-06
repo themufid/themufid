@@ -11,7 +11,7 @@
   <a href="https://www.twitter.com/almufid_tech/"><img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
-<p align="center">I'm Mufid, a Programmer from Indonesia. Let's learn together! 👨🏻‍💻</p>
+<p align="center">I'm Rodhi Faisal Mufid, a Programmer from Indonesia. Let's learn together! 👨🏻‍💻</p>
 
 <hr />
 
