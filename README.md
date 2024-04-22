@@ -8,7 +8,7 @@
   <a href="mailto:almufid.business@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.instagram.com/almufid.tech/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/rodhifaisalmufid/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.twitter.com/almufid_tech/"><img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.x.com/almufid_tech/"><img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
 <p align="center">I'm Rodhi Faisal Mufid, a Programmer from Indonesia. Let's learn together! 👨🏻‍💻</p>
@@ -24,15 +24,18 @@
   <img src="https://img.shields.io/badge/VueJS-439A97?style=for-the-badge&logo=Vue.js&logoColor=white" alt="Vue.js">
   <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=Django&logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Express-439A97.svg?&style=for-the-badge&logo=express&logoColor=white" alt="Express">
-<img src="https://img.shields.io/badge/Node.js-47A248.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="Node">
-<img src="https://img.shields.io/badge/POSTGRESQL-336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/PyQT6-47A248.svg?&style=for-the-badge&logo=pyqt&logoColor=white" alt="PyQT6">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/Express-439A97.svg?&style=for-the-badge&logo=express&logoColor=white" alt="Express">
+  <img src="https://img.shields.io/badge/Node.js-47A248.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="Node">
+  <img src="https://img.shields.io/badge/MySQL-336791.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </p>
 
 <h2 align="left"><b>Tools</b></h2>
 <p align="left">
   <img src="https://img.shields.io/badge/Github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/GIT-%23dc2743.svg?style=for-the-badge&logo=Git&logoColor=white" alt="GIT">
+  <img src="https://img.shields.io/badge/Postman-E34F26.svg?&style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
   <img src="https://img.shields.io/badge/Linux-4479A1?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Jupyter-7286D3?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter">
   <img src="https://img.shields.io/badge/Figma-7286D3?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma">
