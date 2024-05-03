@@ -29,6 +29,8 @@
   <img src="https://img.shields.io/badge/Express-439A97.svg?&style=for-the-badge&logo=express&logoColor=white" alt="Express">
   <img src="https://img.shields.io/badge/Node.js-47A248.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="Node">
   <img src="https://img.shields.io/badge/MySQL-336791.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+
+  <img src="https://img.shields.io/badge/PostgreSQL-336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </p>
 
 <h2 align="left"><b>Tools</b></h2>
